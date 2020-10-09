@@ -88,7 +88,7 @@ text-decoration: center;}
   .flex-container4{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .flex-container4 > img{
@@ -98,7 +98,7 @@ text-decoration: center;}
   line-height: 75px;
   font-size: 30px;
 }
-.flex-container4{padding-left: 400px;
+.flex-container4{padding-left: 300px;
 text-decoration: center;
 }
 
@@ -111,15 +111,13 @@ text-decoration: center;
 
 .flex-container5 > div{
   width: 100px;
+  margin: 10px;
   text-align: center;
   line-height: 75px;
   font-size: 30px;
-  margin: 30px;
 }
 
-h1,h2,h3 {font-family: cursive;
-text-align: center;
-}
+h1,h2,h3 {font-family: cursive;}
 
 
 
